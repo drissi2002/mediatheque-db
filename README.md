@@ -1,1 +1,1 @@
-# MediathequeBD
+# ComicsLibrary
